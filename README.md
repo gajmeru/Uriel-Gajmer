@@ -52,6 +52,6 @@ My long-term goal is to advance into a leadership position such as HR Manager, H
 
 ## Contact
 
-- LinkedIn: [https://www.linkedin.com/in/ivan-gajmer-856036240/](https://www.linkedin.com/in/uriel-gajmer-240224354/)
+- LinkedIn: https://www.linkedin.com/in/uriel-gajmer-240224354/
 - GitHub: https://github.com/gajmeru
 - Resume: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:64a595c1-3e09-4ad5-9ec1-97eb041f13ce
